@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Action mail test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="mailru_oauth_url">https://o2.mail.ru/login</string>
+    <string name="mailru_oauth_scope">userinfo</string>
+    <string name="mailru_oauth_client_id">3872076b42a540d9948a200339a97c5f</string>
+    <string name="mailru_oauth_redirect_url">ru.dkrasnov.pet://oauth2redirect</string>
+</resources>
